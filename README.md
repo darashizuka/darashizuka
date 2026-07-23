@@ -1,6 +1,5 @@
 ## Hi, I am Shizuka 👋
 
-##About Me:
 
 MS CS @ Rice | AI Infrastructure + ML Research
 
