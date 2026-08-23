@@ -3,7 +3,7 @@
 
 MS CS @ Rice | AI Infrastructure + ML Research
 
-Current: SWE Intern at Gruve AI (inference orchestration, GPU scheduling)
+Experience: SWE Intern at Gruve AI (AI Inference and GPU Orchestration Platforms)
 
 Interests: SWE, AI systems, LLM reliability, computer vision, NLP, AI Safety
 
